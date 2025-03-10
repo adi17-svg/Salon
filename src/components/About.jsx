@@ -81,11 +81,6 @@ const About = () => {
             </div>
           </div>
         </div>
-
-        {/* Footer */}
-        <div className="text-center mt-16 text-pink-900">
-          <p>9/11Savony</p>
-        </div>
       </div>
     </section>
   );
